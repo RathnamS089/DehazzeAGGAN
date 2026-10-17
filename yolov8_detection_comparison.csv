@@ -1,0 +1,6 @@
+Image,Hazy_Detections,Hazy_Avg_Conf,Dehazed_Detections,Dehazed_Avg_Conf,Improvement
+compare_00000000_rgb.png,14,0.44,1,0.35,️ Mixed
+compare_00000001_rgb.png,5,0.45,0,0.00,️ Mixed
+compare_00000002_rgb.png,5,0.48,1,0.28,️ Mixed
+compare_00000003_rgb.png,2,0.73,0,0.00,️ Mixed
+compare_00000004_rgb.png,9,0.51,0,0.00,️ Mixed
